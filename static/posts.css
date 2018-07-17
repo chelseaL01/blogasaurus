@@ -1,10 +1,13 @@
 html{
-  background-color: #C3C9E9;
+  background-color: red;
 }
 
 h1{
-color: purple;
+color: blue;
 font-size: 300%;
+}
+header{
+  text-align: center;
 }
 .title{
 text-align: center;
@@ -12,5 +15,4 @@ text-align: center;
 .header{
   font-size: 175%;
   font
-
 }
